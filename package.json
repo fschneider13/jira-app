@@ -1,0 +1,14 @@
+{
+  "name": "jira-app",
+  "version": "1.0.0",
+  "description": "Sample JIRA integration app demonstrating agile best practices",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node tests/test.js"
+  },
+  "keywords": ["jira", "agile"],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
